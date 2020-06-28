@@ -10,4 +10,4 @@ Still don't have my website [web][blog] but my facebook profile is this
 ## Authors
 
 * **Ismael Rosete** - *Pandas andantes* - [Lxrd17](https://github.com/Lxrd17)
-<p><img src="cover.png" style="width=100%></p>
+<p align="center"> <img src="cover.png" width="550"/>
